@@ -1,0 +1,28 @@
+
+.Button {
+
+display: block;
+
+color: white;
+
+padding: 20px;
+
+text-align: center;
+
+background-color: #3F3535;
+
+margin-top: 20px;
+
+}
+
+
+
+.Button:hover{
+
+    background-color: #E99CD8;
+
+}
+
+.foo{
+    margin-top: 20px;
+}
