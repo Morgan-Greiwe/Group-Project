@@ -24,3 +24,8 @@ height: 90px;
 }
 
 
+p {
+font-family: "playfair-display", serif;
+font-weight: 400;
+font-style: normal;
+}
