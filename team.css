@@ -26,4 +26,5 @@ margin-top: 20px;
   padding: 0;
   background-color: #cfc2d6; 
   box-sizing: border-box;
+    object-fit: cover;
 }
