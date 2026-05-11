@@ -21,5 +21,9 @@ background-color: #C4B5C5;
 height: 150px;
 width: 200px;
 margin-top: 10px;
-
+ border: 10px solid #cfc2d6; 
+  border-radius: 4px;        
+  padding: 0;
+  background-color: #cfc2d6; 
+  box-sizing: border-box;
 }
