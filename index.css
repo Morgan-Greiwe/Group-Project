@@ -1,0 +1,25 @@
+.Button {
+display: block;
+color: white;
+padding: 20px;
+text-align: center;
+background-color: #3F3535;
+margin-top: 10px;
+}
+.Button:hover{
+    background-color: #E99CD8;
+}
+.head{
+   margin-top: 10px; 
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.test{
+ margin-top: 50px;
+}
+.head1{
+margin-top: 50px;
+}
+.head2{
+margin-left: 10px;
+}
