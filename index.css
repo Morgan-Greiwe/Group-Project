@@ -5,21 +5,42 @@ padding: 20px;
 text-align: center;
 background-color: #3F3535;
 margin-top: 10px;
+margin-bottom: 50px;
 }
 .Button:hover{
     background-color: #E99CD8;
 }
+
+
+body {
+  background-image: url('IMG/aura.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.boxed {
+display: block;
+color: black;
+padding: 10px 10px;
+text-align: center;
+background-color: #FCEFF1;
+margin-top: 10px;
+margin-bottom: 50px;
+height: 110px;
+}
 .head{
-   margin-top: 10px; 
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+color: black;
+padding: 10px 10px;
+text-align: center;
+background-color: #fae5e8;
+margin-top: 40px;
+margin-bottom: 50px;
+height: 90px;
+font-weight: bold;
 }
 
-.test{
- margin-top: 50px;
-}
-.head1{
-margin-top: 50px;
-}
-.head2{
-margin-left: 10px;
+.size{
+    font-weight: bold;
 }
