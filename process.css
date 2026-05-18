@@ -1,4 +1,3 @@
-
 .Button {
 
 display: block;
@@ -24,20 +23,19 @@ margin-top: 20px;
 }
 
 .foo{
-    margin-top: 40px;
-
-    font-size: xxx-large;
-}
-
-.img{
     margin-top: 20px;
 }
 
-.bodyy{
-background-color: #fae5e8;
+.img{
+    width: 150px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    object-fit: cover;
+    border: 5px solid #E99CD8;
 }
 
-.head{
-white-space: nowrap;
-margin-top: 10px;
+.graph{
+    width: 600px;
+    height: auto;
 }
