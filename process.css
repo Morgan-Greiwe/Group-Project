@@ -14,7 +14,9 @@ margin-top: 20px;
 
 }
 
-
+.page{
+    background-color: #fae5e8;
+}
 
 .Button:hover{
 
@@ -32,7 +34,7 @@ margin-top: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
     object-fit: cover;
-    border: 5px solid #E99CD8;
+    border: 5px solid #cfc2d6;
 }
 
 .graph{
