@@ -40,4 +40,7 @@ margin-top: 20px;
 .graph{
     width: 600px;
     height: auto;
+    border: 5px solid #cfc2d6;
+    margin-left: 10px;
+    margin-right: 10px;
 }
